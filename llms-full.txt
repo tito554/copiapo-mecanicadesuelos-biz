@@ -1,0 +1,51 @@
+# Mecanicadesuelos — Copiapó
+
+> Geotechnical engineering services in Copiapó, Chile.
+
+## Services
+- [Aislacion Sismica](https://copiapo.mecanicadesuelos.biz/aislacion-sismica/)
+- [Anclajes](https://copiapo.mecanicadesuelos.biz/anclajes/)
+- [Calicatas](https://copiapo.mecanicadesuelos.biz/calicatas/)
+- [Cbr Vial](https://copiapo.mecanicadesuelos.biz/cbr-vial/)
+- [Cimentaciones](https://copiapo.mecanicadesuelos.biz/cimentaciones/)
+- [Columnas Grava](https://copiapo.mecanicadesuelos.biz/columnas-grava/)
+- [Densidad Cono Arena](https://copiapo.mecanicadesuelos.biz/densidad-cono-arena/)
+- [Ensayo Cpt](https://copiapo.mecanicadesuelos.biz/ensayo-cpt/)
+- [Ensayos Proctor](https://copiapo.mecanicadesuelos.biz/ensayos-proctor/)
+- [Estabilidad Taludes](https://copiapo.mecanicadesuelos.biz/estabilidad-taludes/)
+- [Excavaciones Profundas](https://copiapo.mecanicadesuelos.biz/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://copiapo.mecanicadesuelos.biz/excavaciones-subterraneo/)
+- [Exploracion](https://copiapo.mecanicadesuelos.biz/exploracion/)
+- [Geotecnia Vial](https://copiapo.mecanicadesuelos.biz/geotecnia-vial/)
+- [Granulometria](https://copiapo.mecanicadesuelos.biz/granulometria/)
+- [Inyecciones](https://copiapo.mecanicadesuelos.biz/inyecciones/)
+- [Laboratorio In Situ](https://copiapo.mecanicadesuelos.biz/laboratorio-in-situ/)
+- [Laboratorio Lab](https://copiapo.mecanicadesuelos.biz/laboratorio-lab/)
+- [Licuefaccion](https://copiapo.mecanicadesuelos.biz/licuefaccion/)
+- [Limites Atterberg](https://copiapo.mecanicadesuelos.biz/limites-atterberg/)
+- [Losas Fundacion](https://copiapo.mecanicadesuelos.biz/losas-fundacion/)
+- [Masw](https://copiapo.mecanicadesuelos.biz/masw/)
+- [Mejoramiento](https://copiapo.mecanicadesuelos.biz/mejoramiento/)
+- [Microzonificacion Sismica](https://copiapo.mecanicadesuelos.biz/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://copiapo.mecanicadesuelos.biz/monitoreo-excavaciones/)
+- [Muros Contencion](https://copiapo.mecanicadesuelos.biz/muros-contencion/)
+- [Pavimento Flexible](https://copiapo.mecanicadesuelos.biz/pavimento-flexible/)
+- [Pavimento Rigido](https://copiapo.mecanicadesuelos.biz/pavimento-rigido/)
+- [Permeabilidad In Situ](https://copiapo.mecanicadesuelos.biz/permeabilidad-in-situ/)
+- [Pilotes](https://copiapo.mecanicadesuelos.biz/pilotes/)
+- [Refraccion Sismica](https://copiapo.mecanicadesuelos.biz/refraccion-sismica/)
+- [Resistividad](https://copiapo.mecanicadesuelos.biz/resistividad/)
+- [Sismica](https://copiapo.mecanicadesuelos.biz/sismica/)
+- [Sondajes Spt](https://copiapo.mecanicadesuelos.biz/sondajes-spt/)
+- [Taludes](https://copiapo.mecanicadesuelos.biz/taludes/)
+- [Triaxial](https://copiapo.mecanicadesuelos.biz/triaxial/)
+- [Tuneles Suelo Blando](https://copiapo.mecanicadesuelos.biz/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://copiapo.mecanicadesuelos.biz/vibrocompactacion/)
+- [Zapatas](https://copiapo.mecanicadesuelos.biz/zapatas/)
+
+## Contact
+- Website: https://copiapo.mecanicadesuelos.biz/
+
+## About
+This site provides geotechnical engineering services in Copiapó, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
